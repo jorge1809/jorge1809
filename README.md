@@ -6,7 +6,6 @@
     Construyendo soluciones web modernas, funcionales
     y mantenibles.
   </p>
-  <img src="https://komarev.com/ghpvc/?username=jorge1809&style=flat-square" alt="Visitas al perfil" />
 </div>
 
 ---
