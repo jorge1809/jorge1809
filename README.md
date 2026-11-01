@@ -39,26 +39,12 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
-## 🚀 Proyectos
-
-### R&M Mueblería
-Sitio web de catálogo de muebles desarrollado con React,
-TypeScript y Vite.
-
-**Características:**
-- Diseño responsive.
-- Navegación mediante React Router.
-- Catálogo dinámico de productos.
-- Búsqueda local de productos.
-- Componentes reutilizables.
-
-**Estado:** En desarrollo.
 
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jorge1809&show_icons=true&theme=github_dark" height="165" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorge1809&layout=compact&theme=github_dark" height="165" alt="Lenguajes utilizados" />
+  <img src="https://github-stats-extended.vercel.app/api?username=jorge1809&show_icons=true&theme=github_dark" height="165" alt="Estadísticas de GitHub" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jorge1809&layout=compact&theme=github_dark" height="165" alt="Lenguajes utilizados" />
 </div>
 
 ## 📫 Contacto
